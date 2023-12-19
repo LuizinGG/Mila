@@ -19,7 +19,7 @@ A Mila é um projeto que utiliza a tecnologia da OpenAI para oferecer interaçõ
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/ia-da-biblia.git
+    git clone https://github.com/LuizinGG/Mila.git
     cd ia-da-biblia
     ```
 
